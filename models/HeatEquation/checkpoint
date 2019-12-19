@@ -1,0 +1,2 @@
+model_checkpoint_path: "HeatEquation_DNN.hf5"
+all_model_checkpoint_paths: "HeatEquation_DNN.hf5"
