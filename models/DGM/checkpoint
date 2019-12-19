@@ -1,0 +1,2 @@
+model_checkpoint_path: "DGM_aapl_call.hf5"
+all_model_checkpoint_paths: "DGM_aapl_call.hf5"
